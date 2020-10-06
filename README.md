@@ -1,2 +1,2 @@
 # Hello-World
-This is my first repository
+Well, how do I like programming ands its capabilities
